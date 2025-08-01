@@ -18,3 +18,12 @@ Proyek ini adalah aplikasi web interaktif berbasis Streamlit yang memungkinkan p
 - Linear Regression
 - K-Nearest Neighbors (KNN)
 - Decision Tree
+
+✅ Data CSV yang Didukung
+Agar app.py dapat membaca dan memproses CSV dengan lancar:
+File harus berformat .csv dengan header (baris pertama nama kolom).
+
+Contoh:
+age,salary,target
+25,50000,1
+30,60000,0
